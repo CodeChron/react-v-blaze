@@ -8,7 +8,6 @@ _This is a sidebar to [Intro to Meteor and React](https://github.com/CodeChron/i
 - If you run the app locally, you'll see two instances of the identical functionality.
 
 When installing a Meteor app, by default it uses [Blaze](https://github.com/meteor/blaze) for handling the view layer.  If you're interested in understanding how Blaze and React differ, one great way to do that is to build the same feature using both technologies, wnich is what we've done here.
-, so let’s recreate the default functionality of the Meteor app using React and then see how they compare.
 
 ## Blaze
 Blaze is template-based and has a more traditional division between HTML and JS, with separate HTML and JS files.  We use handlebars syntax (known as “spacebars” in the Meteor world) to define dynamic and/or logic-based elements in our HTML markup.  Then, based on the template name, we associate JS with the file, where we handle events, as well as the template lifecycle.
