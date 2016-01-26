@@ -2,9 +2,7 @@
 
 _This is a sidebar to [Intro to Meteor and React](https://github.com/CodeChron/intro-to-meteor-react)_
 
-When installing a Meteor app, by default it uses [Blaze](https://github.com/meteor/blaze) for handling the view layer. 
-
-If you're interested in understanding how Blaze and React differ, one great way to do that is to build the same feature using both technologies, wnich is what we've done here.
+When installing a Meteor app, by default it uses [Blaze](https://github.com/meteor/blaze) for handling the view layer.  If you're interested in understanding how Blaze and React differ, one great way to do that is to build the same feature using both technologies, wnich is what we've done here.
 , so let’s recreate the default functionality of the Meteor app using React and then see how they compare.
 
 ## Blaze
